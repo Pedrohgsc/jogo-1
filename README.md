@@ -1,8 +1,4 @@
 # jogo-1import random
-
-
-
-
 class GameAgent:
     def __init__(self, max_attempts=3):
         self.secret_number = random.randint(1, 100)  # Número secreto aleatório entre 1 e 100
