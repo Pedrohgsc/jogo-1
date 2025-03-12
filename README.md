@@ -1,8 +1,4 @@
 
-Jogo com apenas 2 tentativas 
-
-
-
 # jogo-1import random
 class GameAgent:
     def __init__(self, max_attempts=3):
